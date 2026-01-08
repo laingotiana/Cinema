@@ -1,0 +1,1 @@
+cp target/cinema-management.war /opt/tomcat/webapps/
